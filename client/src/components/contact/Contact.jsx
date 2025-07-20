@@ -45,7 +45,7 @@ function Contact() {
     <div>
          <span className="font-semibold">WhatsApp:</span>{' '}For quick replies and availability checks, {' '}
       <a
-         href="https://wa.me/919876543210?text=Hello%20Vishal%2C%20I%20am%20interested%20in%20booking%20your%20homestay.%20Please%20share%20availability%20and%20rates."
+         href="https://wa.me/+919817277357?text=Hello%20Vishal%2C%20I%20am%20interested%20in%20booking%20your%20homestay.%20Please%20share%20availability%20and%20rates."
          target="_blank"
          rel="noopener noreferrer"
          className="text-indigo-500 hover:underline"
